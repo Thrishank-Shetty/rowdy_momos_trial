@@ -1,0 +1,159 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+@theme {
+  --font-display: 'Bungee', sans-serif;
+  --font-body: 'Manrope', sans-serif;
+
+  /* Ink — deep espresso-charcoal surfaces, not flat black */
+  --color-charcoal: #1B140F;
+  --color-charcoal-2: #241A13;
+  --color-charcoal-3: #362519;
+  --color-charcoal-border: #4A362548;
+
+  /* Cream — warm paper, not stark white */
+  --color-cream: #FBF3E6;
+  --color-cream-dim: #E8D9BF;
+  --color-cream-2: #F3E7D3;
+
+  /* Saffron — the "hot off the tawa" accent (was mustard) */
+  --color-mustard: #DDA23E;
+  --color-mustard-dark: #A9741F;
+  --color-mustard-light: #F0C878;
+
+  /* Chili — the rowdy accent */
+  --color-chili: #CE3E24;
+  --color-chili-dark: #98301C;
+  --color-chili-light: #E86B4E;
+
+  /* Semantic */
+  --color-veg: #4F9B5E;
+  --color-success: #4F9B5E;
+  --color-warning: #DDA23E;
+  --color-error: #CE3E24;
+
+  --shadow-card: 0 1px 2px rgb(27 20 15 / 0.06), 0 8px 20px -6px rgb(27 20 15 / 0.18);
+  --shadow-card-hover: 0 4px 10px rgb(27 20 15 / 0.10), 0 20px 34px -10px rgb(27 20 15 / 0.30);
+  --shadow-pop: 0 12px 40px -8px rgb(27 20 15 / 0.45);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Forms ---------- */
+.input,
+.textarea,
+.select {
+  width: 100%;
+  border-radius: 0.75rem;
+  border: 1.5px solid rgb(27 20 15 / 0.14);
+  background-color: white;
+  padding: 0.7rem 1rem;
+  font-size: 0.875rem;
+  color: var(--color-charcoal);
+  transition: border-color 150ms ease, box-shadow 150ms ease, background-color 150ms ease;
+}
+.input::placeholder,
+.textarea::placeholder {
+  color: rgb(27 20 15 / 0.38);
+}
+.input:hover,
+.textarea:hover,
+.select:hover {
+  border-color: rgb(27 20 15 / 0.24);
+}
+.input:focus,
+.textarea:focus,
+.select:focus {
+  outline: none;
+  border-color: var(--color-mustard);
+  box-shadow: 0 0 0 4px rgb(221 162 62 / 0.18);
+}
+.input:disabled,
+.textarea:disabled {
+  background-color: rgb(27 20 15 / 0.04);
+  color: rgb(27 20 15 / 0.4);
+  cursor: not-allowed;
+}
+.input-error {
+  border-color: var(--color-chili) !important;
+  box-shadow: 0 0 0 4px rgb(206 62 36 / 0.14) !important;
+}
+.textarea {
+  resize: vertical;
+  min-height: 6rem;
+}
+.checkbox {
+  width: 1.15rem;
+  height: 1.15rem;
+  border-radius: 0.35rem;
+  border: 1.5px solid rgb(27 20 15 / 0.28);
+  accent-color: var(--color-mustard);
+  cursor: pointer;
+}
+
+/* ---------- Signature details ---------- */
+
+/* Paint-stroke badge, echoing the marker-highlight look of the menu board */
+.paint-stroke {
+  clip-path: polygon(2% 15%, 98% 0%, 100% 85%, 3% 100%);
+}
+
+/* Steam wisp animation for food imagery */
+@keyframes steam-rise {
+  0% { transform: translateY(0) scaleX(1); opacity: 0.6; }
+  50% { transform: translateY(-10px) scaleX(1.15); opacity: 0.32; }
+  100% { transform: translateY(-22px) scaleX(0.9); opacity: 0; }
+}
+.steam-wisp {
+  animation: steam-rise 2.4s ease-in-out infinite;
+}
+.steam-wisp:nth-child(2) { animation-delay: 0.4s; }
+.steam-wisp:nth-child(3) { animation-delay: 0.8s; }
+
+/* ---------- Motion primitives ---------- */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-up {
+  animation: fade-up 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fade-in {
+  animation: fade-in 0.35s ease both;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--color-charcoal-3) 25%, #4a3728 37%, var(--color-charcoal-3) 63%);
+  background-size: 400% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--color-cream); }
+::-webkit-scrollbar-thumb { background: var(--color-mustard); border-radius: 999px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+}

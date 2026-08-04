@@ -1,0 +1,14 @@
+[
+  { "id": "all", "label": "All" },
+  { "id": "classic-momos", "label": "Classic Momos" },
+  { "id": "tandoori-bhatti", "label": "Tandoori Bhatti Se" },
+  { "id": "korean-ramen", "label": "Korean Ramen" },
+  { "id": "sizzler", "label": "Sizzler" },
+  { "id": "burger", "label": "Burger" },
+  { "id": "saucy-af-momos", "label": "Saucy AF Momos" },
+  { "id": "pahadi-soup-momo", "label": "Pahadi Soup Momo" },
+  { "id": "messy-wings", "label": "Messy Wings" },
+  { "id": "chicken-bites", "label": "Chicken Bites" },
+  { "id": "korean-corn-dog", "label": "Korean Corn Dog" },
+  { "id": "platter", "label": "Platter" }
+]

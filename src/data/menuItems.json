@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "cm-1",
+    "name": "Veg Momo",
+    "category": "classic-momos",
+    "description": "Classic steamed dumplings with fresh vegetable filling.",
+    "fullDescription": "Our house-classic momo — hand-folded and steamed till translucent, packed with finely chopped vegetables and a hit of garlic. Served with spicy red chutney.",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Momo dough",
+      "House red chutney"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 79
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 89
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 99
+      }
+    ],
+    "prepTimeMins": 17
+  },
+  {
+    "id": "cm-2",
+    "name": "Veg Peri Peri Momo",
+    "category": "classic-momos",
+    "description": "Veg momos tossed in fiery peri peri seasoning.",
+    "fullDescription": "Steamed veg momos wok-tossed with peri peri spice, bell peppers and a squeeze of lime for a tangy kick.",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Peri peri seasoning",
+      "Bell pepper",
+      "Momo dough"
+    ],
+    "image": "https://images.unsplash.com/photo-1626804475297-411d0f5f5e08?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 89
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 99
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 109
+      }
+    ],
+    "prepTimeMins": 11
+  },
+  {
+    "id": "cm-3",
+    "name": "Veg Cheese Momo",
+    "category": "classic-momos",
+    "description": "Veg momos loaded with melted cheese.",
+    "fullDescription": "Vegetable momos stuffed with a gooey cheese blend, finished with a drizzle of cheese sauce.",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Mozzarella",
+      "Processed cheese",
+      "Momo dough"
+    ],
+    "image": "https://images.unsplash.com/photo-1626804475297-411d0f5f5e08?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 89
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 99
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 109
+      }
+    ],
+    "prepTimeMins": 23
+  },
+  {
+    "id": "cm-4",
+    "name": "Paneer Achari Momos",
+    "category": "classic-momos",
+    "description": "Momos filled with tangy pickled-spice paneer.",
+    "fullDescription": "Cottage cheese momos spiced with achari (pickle) masala for a bold, tangy punch.",
+    "ingredients": [
+      "Paneer",
+      "Achari masala",
+      "Onion",
+      "Momo dough"
+    ],
+    "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 109
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 119
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 129
+      }
+    ],
+    "prepTimeMins": 8
+  },
+  {
+    "id": "cm-5",
+    "name": "Chicken Momos",
+    "category": "classic-momos",
+    "description": "Juicy minced chicken dumplings, a house favourite.",
+    "fullDescription": "Hand-minced chicken momos steamed to lock in the juices, served with our signature fiery red chutney.",
+    "ingredients": [
+      "Minced chicken",
+      "Ginger",
+      "Garlic",
+      "Spring onion",
+      "Momo dough"
+    ],
+    "image": "https://images.unsplash.com/photo-1626804475297-411d0f5f5e08?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 109
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 119
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 129
+      }
+    ],
+    "prepTimeMins": 8
+  },
+  {
+    "id": "cm-6",
+    "name": "Chicken Cheese Peri Peri Momos",
+    "category": "classic-momos",
+    "description": "Chicken momos with cheese and a peri peri finish.",
+    "fullDescription": "Minced chicken and melted cheese momos tossed in peri peri seasoning — rich, cheesy and spicy all at once.",
+    "ingredients": [
+      "Minced chicken",
+      "Cheese",
+      "Peri peri seasoning",
+      "Momo dough"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Steamed (6pcs)",
+        "price": 119
+      },
+      {
+        "label": "Fried (6pcs)",
+        "price": 129
+      },
+      {
+        "label": "Kurkure (6pcs)",
+        "price": 139
+      }
+    ],
+    "prepTimeMins": 17
+  },
+  {
+    "id": "tb-1",
+    "name": "Creamy Veg Tandoori",
+    "category": "tandoori-bhatti",
+    "description": "Smoky tandoor-charred veg momos in a creamy sauce.",
+    "fullDescription": "Steamed veg momos char-grilled in the tandoor, finished with a rich, smoky cream sauce and a pinch of chaat masala.",
+    "ingredients": [
+      "Veg momo",
+      "Cream sauce",
+      "Tandoori masala",
+      "Butter"
+    ],
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 139
+      }
+    ],
+    "prepTimeMins": 10
+  },
+  {
+    "id": "tb-2",
+    "name": "Creamy Paneer Tandoor",
+    "category": "tandoori-bhatti",
+    "description": "Tandoor-smoked paneer momos in creamy sauce.",
+    "fullDescription": "Paneer momos char-grilled and coated in a smoky, creamy tandoori sauce.",
+    "ingredients": [
+      "Paneer momo",
+      "Cream sauce",
+      "Tandoori masala"
+    ],
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 149
+      }
+    ],
+    "prepTimeMins": 17
+  },
+  {
+    "id": "tb-3",
+    "name": "Creamy Chicken Tandoor",
+    "category": "tandoori-bhatti",
+    "description": "Char-grilled chicken momos in a smoky cream sauce.",
+    "fullDescription": "Our signature chicken momos, smoked in the tandoor and finished in a rich, buttery, smoky sauce.",
+    "ingredients": [
+      "Chicken momo",
+      "Cream sauce",
+      "Tandoori masala",
+      "Butter"
+    ],
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 149
+      }
+    ],
+    "prepTimeMins": 20
+  },
+  {
+    "id": "tb-4",
+    "name": "Creamy Chicken Cheese Tandoor",
+    "category": "tandoori-bhatti",
+    "description": "Tandoori chicken momos with a melted cheese finish.",
+    "fullDescription": "Smoky tandoori chicken momos topped with molten cheese and a swirl of creamy sauce.",
+    "ingredients": [
+      "Chicken momo",
+      "Cheese",
+      "Cream sauce",
+      "Tandoori masala"
+    ],
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 159
+      }
+    ],
+    "prepTimeMins": 23
+  },
+  {
+    "id": "kr-1",
+    "name": "Korean Spicy Veg Ramen",
+    "category": "korean-ramen",
+    "description": "Noodle soup in a fiery Korean-style veg broth.",
+    "fullDescription": "A rich, spicy Korean noodle soup loaded with vegetables and a fragrant gochugaru-spiked broth.",
+    "ingredients": [
+      "Ramen noodles",
+      "Mixed vegetables",
+      "Gochugaru",
+      "Spring onion",
+      "Broth"
+    ],
+    "image": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Bowl",
+        "price": 169
+      }
+    ],
+    "prepTimeMins": 19
+  },
+  {
+    "id": "kr-2",
+    "name": "Korean Cheese Ramen",
+    "category": "korean-ramen",
+    "description": "Comforting cheesy Korean noodle soup.",
+    "fullDescription": "Silky ramen noodles in a warm broth, topped with a generous blanket of melted cheese.",
+    "ingredients": [
+      "Ramen noodles",
+      "Cheese",
+      "Vegetables",
+      "Broth"
+    ],
+    "image": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Bowl",
+        "price": 189
+      }
+    ],
+    "prepTimeMins": 17
+  },
+  {
+    "id": "kr-3",
+    "name": "Korean Kimchi Ramen",
+    "category": "korean-ramen",
+    "description": "Tangy, spicy ramen with fermented kimchi.",
+    "fullDescription": "A punchy, umami-rich ramen made with fermented kimchi for that authentic Korean tang.",
+    "ingredients": [
+      "Ramen noodles",
+      "Kimchi",
+      "Spring onion",
+      "Broth"
+    ],
+    "image": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Bowl",
+        "price": 169
+      }
+    ],
+    "prepTimeMins": 9
+  },
+  {
+    "id": "kr-4",
+    "name": "Korean Chicken Ramen",
+    "category": "korean-ramen",
+    "description": "Hearty ramen loaded with tender chicken.",
+    "fullDescription": "A soul-warming bowl of ramen noodles, shredded chicken and a deeply savoury broth.",
+    "ingredients": [
+      "Ramen noodles",
+      "Chicken",
+      "Spring onion",
+      "Broth"
+    ],
+    "image": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Bowl",
+        "price": 179
+      }
+    ],
+    "prepTimeMins": 19
+  },
+  {
+    "id": "sz-1",
+    "name": "Veg Sizzler With Noodles",
+    "category": "sizzler",
+    "description": "A sizzling plate of veggies over stir-fried noodles.",
+    "fullDescription": "Fresh vegetables and stir-fried noodles served on a smoking hot sizzler plate with in-house sauces.",
+    "ingredients": [
+      "Noodles",
+      "Mixed vegetables",
+      "Sizzler sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Plate",
+        "price": 259
+      }
+    ],
+    "prepTimeMins": 20
+  },
+  {
+    "id": "sz-2",
+    "name": "Chicken Sizzler With Noodles",
+    "category": "sizzler",
+    "description": "Sizzling chicken and noodles on a hot plate.",
+    "fullDescription": "Wok-tossed chicken and noodles plated over a sizzling hot base with our house sizzler sauce.",
+    "ingredients": [
+      "Noodles",
+      "Chicken",
+      "Sizzler sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Plate",
+        "price": 279
+      }
+    ],
+    "prepTimeMins": 20
+  },
+  {
+    "id": "bg-1",
+    "name": "Veg Burger",
+    "category": "burger",
+    "description": "Classic veg patty burger with fresh toppings.",
+    "fullDescription": "A crisp veg patty stacked with lettuce, tomato and house mayo in a toasted bun.",
+    "ingredients": [
+      "Veg patty",
+      "Lettuce",
+      "Tomato",
+      "Mayo",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 69
+      }
+    ],
+    "prepTimeMins": 23
+  },
+  {
+    "id": "bg-2",
+    "name": "Tandoori Burger",
+    "category": "burger",
+    "description": "Burger with a smoky tandoori-spiced patty.",
+    "fullDescription": "A tandoori-spiced patty layered with onions and mint mayo in a soft bun.",
+    "ingredients": [
+      "Tandoori patty",
+      "Onion",
+      "Mint mayo",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 79
+      }
+    ],
+    "prepTimeMins": 24
+  },
+  {
+    "id": "bg-3",
+    "name": "Peri Peri Burger",
+    "category": "burger",
+    "description": "Burger with a spicy peri peri crunch.",
+    "fullDescription": "A crunchy peri peri patty finished with tangy sauce and crisp lettuce.",
+    "ingredients": [
+      "Peri peri patty",
+      "Lettuce",
+      "Peri peri sauce",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 79
+      }
+    ],
+    "prepTimeMins": 10
+  },
+  {
+    "id": "bg-4",
+    "name": "Chicken Burger",
+    "category": "burger",
+    "description": "Classic crispy chicken patty burger.",
+    "fullDescription": "A golden, crispy chicken patty layered with fresh veggies and house sauce.",
+    "ingredients": [
+      "Chicken patty",
+      "Lettuce",
+      "House sauce",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 89
+      }
+    ],
+    "prepTimeMins": 14
+  },
+  {
+    "id": "bg-5",
+    "name": "Chicken Tandoori Burger",
+    "category": "burger",
+    "description": "Smoky tandoori chicken patty burger.",
+    "fullDescription": "A tandoor-charred chicken patty with mint mayo and pickled onions.",
+    "ingredients": [
+      "Tandoori chicken patty",
+      "Onion",
+      "Mint mayo",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 89
+      }
+    ],
+    "prepTimeMins": 14
+  },
+  {
+    "id": "bg-6",
+    "name": "Chicken Peri Peri Burger",
+    "category": "burger",
+    "description": "Crispy chicken burger with peri peri heat.",
+    "fullDescription": "Crunchy peri peri chicken patty topped with a fiery peri peri drizzle.",
+    "ingredients": [
+      "Peri peri chicken patty",
+      "Lettuce",
+      "Peri peri sauce",
+      "Bun"
+    ],
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 89
+      }
+    ],
+    "prepTimeMins": 19
+  },
+  {
+    "id": "sm-1",
+    "name": "Saucy AF Veg Momos",
+    "category": "saucy-af-momos",
+    "description": "Veg momos drenched in a bold, flavourful sauce.",
+    "fullDescription": "Steamed veg momos fully drenched in our thick, tangy house sauce for a mouth-watering twist.",
+    "ingredients": [
+      "Veg momo",
+      "House sauce",
+      "Sesame",
+      "Spring onion"
+    ],
+    "image": "https://images.unsplash.com/photo-1626804475297-411d0f5f5e08?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 119
+      }
+    ],
+    "prepTimeMins": 12
+  },
+  {
+    "id": "sm-2",
+    "name": "Saucy AF Paneer Momos",
+    "category": "saucy-af-momos",
+    "description": "Paneer momos in a rich, saucy coating.",
+    "fullDescription": "Paneer momos fully drenched in a rich, flavourful sauce for a bold mouthful in every bite.",
+    "ingredients": [
+      "Paneer momo",
+      "House sauce",
+      "Sesame"
+    ],
+    "image": "https://images.unsplash.com/photo-1626804475297-411d0f5f5e08?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 129
+      }
+    ],
+    "prepTimeMins": 20
+  },
+  {
+    "id": "psm-1",
+    "name": "Nepali Jhol Momo",
+    "category": "pahadi-soup-momo",
+    "description": "Momos served in an authentic mountain-style broth.",
+    "fullDescription": "Steamed veg momos ladled into a fragrant, tangy jhol (soup) broth in the pahadi tradition.",
+    "ingredients": [
+      "Veg momo",
+      "Jhol broth",
+      "Sesame",
+      "Timur"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 119
+      }
+    ],
+    "prepTimeMins": 19
+  },
+  {
+    "id": "psm-2",
+    "name": "Paneer Jhol Momo",
+    "category": "pahadi-soup-momo",
+    "description": "Paneer momos in mountain-style jhol broth.",
+    "fullDescription": "Paneer momos in a fragrant pahadi jhol broth, finished with sesame and timur pepper.",
+    "ingredients": [
+      "Paneer momo",
+      "Jhol broth",
+      "Sesame",
+      "Timur"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 135
+      }
+    ],
+    "prepTimeMins": 8
+  },
+  {
+    "id": "psm-3",
+    "name": "Chicken Jhol Momo",
+    "category": "pahadi-soup-momo",
+    "description": "Chicken momos in a warm mountain-style broth.",
+    "fullDescription": "Juicy chicken momos served in a soulful, tangy pahadi jhol broth.",
+    "ingredients": [
+      "Chicken momo",
+      "Jhol broth",
+      "Sesame",
+      "Timur"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 135
+      }
+    ],
+    "prepTimeMins": 11
+  },
+  {
+    "id": "mw-1",
+    "name": "Peri Peri Chicken Wings",
+    "category": "messy-wings",
+    "description": "Crispy chicken wings tossed in peri peri.",
+    "fullDescription": "Deep-fried chicken wings tossed hot in a peri peri glaze — sticky, spicy and messy.",
+    "ingredients": [
+      "Chicken wings",
+      "Peri peri sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 179
+      }
+    ],
+    "prepTimeMins": 15
+  },
+  {
+    "id": "mw-2",
+    "name": "Tandoori Chicken Wings",
+    "category": "messy-wings",
+    "description": "Smoky tandoori-spiced chicken wings.",
+    "fullDescription": "Char-grilled chicken wings marinated in classic tandoori spices.",
+    "ingredients": [
+      "Chicken wings",
+      "Tandoori masala",
+      "Yogurt marinade"
+    ],
+    "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 179
+      }
+    ],
+    "prepTimeMins": 11
+  },
+  {
+    "id": "mw-3",
+    "name": "Barbeque Chicken Wings",
+    "category": "messy-wings",
+    "description": "Sticky barbeque-glazed chicken wings.",
+    "fullDescription": "Chicken wings tossed in a sticky, smoky barbeque glaze.",
+    "ingredients": [
+      "Chicken wings",
+      "BBQ sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 179
+      }
+    ],
+    "prepTimeMins": 15
+  },
+  {
+    "id": "mw-4",
+    "name": "Herb Garlic Chicken Wings",
+    "category": "messy-wings",
+    "description": "Chicken wings tossed in herb-garlic butter.",
+    "fullDescription": "Crispy wings finished in a fragrant herb and garlic butter toss.",
+    "ingredients": [
+      "Chicken wings",
+      "Garlic",
+      "Herbs",
+      "Butter"
+    ],
+    "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "6pcs",
+        "price": 189
+      }
+    ],
+    "prepTimeMins": 22
+  },
+  {
+    "id": "cb-1",
+    "name": "Chicken Tandoori Nuggets",
+    "category": "chicken-bites",
+    "description": "Bite-sized tandoori-spiced chicken nuggets.",
+    "fullDescription": "Crispy chicken nuggets marinated in tandoori spices for a smoky, punchy bite.",
+    "ingredients": [
+      "Chicken",
+      "Tandoori masala",
+      "Breadcrumbs"
+    ],
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Portion",
+        "price": 109
+      }
+    ],
+    "prepTimeMins": 13
+  },
+  {
+    "id": "cb-2",
+    "name": "Chicken Popcorn",
+    "category": "chicken-bites",
+    "description": "Bite-sized crispy popcorn chicken.",
+    "fullDescription": "Small, crunchy bites of fried chicken — perfect for snacking and sharing.",
+    "ingredients": [
+      "Chicken",
+      "Breadcrumbs",
+      "House spice mix"
+    ],
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Portion",
+        "price": 125
+      }
+    ],
+    "prepTimeMins": 24
+  },
+  {
+    "id": "cb-3",
+    "name": "Chicken Fingers",
+    "category": "chicken-bites",
+    "description": "Crispy breaded chicken fingers.",
+    "fullDescription": "Golden, crispy chicken fingers served with dip on the side.",
+    "ingredients": [
+      "Chicken breast",
+      "Breadcrumbs",
+      "House spice mix"
+    ],
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Portion",
+        "price": 125
+      }
+    ],
+    "prepTimeMins": 25
+  },
+  {
+    "id": "kcd-1",
+    "name": "Chilly Garlic Corn Dog",
+    "category": "korean-corn-dog",
+    "description": "Korean-style corn dog with a chilly garlic coat.",
+    "fullDescription": "A crispy, cheese-stuffed Korean corn dog rolled in chilly garlic seasoning.",
+    "ingredients": [
+      "Corn dog batter",
+      "Mozzarella",
+      "Chilly garlic seasoning"
+    ],
+    "image": "https://images.unsplash.com/photo-1619221882289-160da42c1b98?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 150
+      }
+    ],
+    "prepTimeMins": 23
+  },
+  {
+    "id": "kcd-2",
+    "name": "Peri Peri Corn Dog",
+    "category": "korean-corn-dog",
+    "description": "Korean corn dog dusted with peri peri.",
+    "fullDescription": "A crispy, cheese-stuffed Korean corn dog dusted in tangy peri peri seasoning.",
+    "ingredients": [
+      "Corn dog batter",
+      "Mozzarella",
+      "Peri peri seasoning"
+    ],
+    "image": "https://images.unsplash.com/photo-1619221882289-160da42c1b98?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 150
+      }
+    ],
+    "prepTimeMins": 15
+  },
+  {
+    "id": "kcd-3",
+    "name": "Tandoori Corn Dog",
+    "category": "korean-corn-dog",
+    "description": "Korean corn dog with smoky tandoori spice.",
+    "fullDescription": "Cheese-stuffed corn dog rolled in a smoky tandoori spice mix.",
+    "ingredients": [
+      "Corn dog batter",
+      "Mozzarella",
+      "Tandoori masala"
+    ],
+    "image": "https://images.unsplash.com/photo-1619221882289-160da42c1b98?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 150
+      }
+    ],
+    "prepTimeMins": 14
+  },
+  {
+    "id": "kcd-4",
+    "name": "Barbeque Corn Dog",
+    "category": "korean-corn-dog",
+    "description": "Korean corn dog with a smoky BBQ coat.",
+    "fullDescription": "Cheese-stuffed corn dog finished with a sticky, smoky barbeque seasoning.",
+    "ingredients": [
+      "Corn dog batter",
+      "Mozzarella",
+      "BBQ seasoning"
+    ],
+    "image": "https://images.unsplash.com/photo-1619221882289-160da42c1b98?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Single",
+        "price": 150
+      }
+    ],
+    "prepTimeMins": 15
+  },
+  {
+    "id": "pl-1",
+    "name": "Steam Platter (Veg)",
+    "category": "platter",
+    "description": "A shareable platter of assorted steamed veg momos.",
+    "fullDescription": "A generous shareable platter with a mix of our best steamed veg momos and dips.",
+    "ingredients": [
+      "Assorted veg momos",
+      "House chutneys"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Sharing",
+        "price": 199
+      }
+    ],
+    "prepTimeMins": 8
+  },
+  {
+    "id": "pl-2",
+    "name": "Steam Platter (Non-Veg)",
+    "category": "platter",
+    "description": "A shareable platter of assorted steamed chicken momos.",
+    "fullDescription": "A generous shareable platter with a mix of our best steamed chicken momos and dips.",
+    "ingredients": [
+      "Assorted chicken momos",
+      "House chutneys"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": true,
+    "available": true,
+    "variants": [
+      {
+        "label": "Sharing",
+        "price": 209
+      }
+    ],
+    "prepTimeMins": 17
+  },
+  {
+    "id": "pl-3",
+    "name": "Fried Platter (Veg)",
+    "category": "platter",
+    "description": "A shareable platter of assorted fried veg momos.",
+    "fullDescription": "Crispy fried veg momos in an assorted sharing platter, served with dips.",
+    "ingredients": [
+      "Assorted veg momos",
+      "House chutneys"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": true,
+    "bestseller": false,
+    "available": false,
+    "variants": [
+      {
+        "label": "Sharing",
+        "price": 229
+      }
+    ],
+    "prepTimeMins": 13
+  },
+  {
+    "id": "pl-4",
+    "name": "Fried Platter (Non-Veg)",
+    "category": "platter",
+    "description": "A shareable platter of assorted fried chicken momos.",
+    "fullDescription": "Crispy fried chicken momos in an assorted sharing platter, served with dips.",
+    "ingredients": [
+      "Assorted chicken momos",
+      "House chutneys"
+    ],
+    "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=600&q=80",
+    "veg": false,
+    "bestseller": false,
+    "available": true,
+    "variants": [
+      {
+        "label": "Sharing",
+        "price": 239
+      }
+    ],
+    "prepTimeMins": 9
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ORD-1001",
+    "tableNumber": 4,
+    "items": [
+      { "name": "Veg Momo", "variantLabel": "Fried (6pcs)", "quantity": 2, "price": 89 },
+      { "name": "Korean Corn Dog", "variantLabel": "Classic", "quantity": 1, "price": 129 }
+    ],
+    "instructions": "Extra chutney on the side, please.",
+    "status": "pending",
+    "orderTime": "2026-07-21T10:12:00.000Z",
+    "estimatedPrepTime": 18
+  },
+  {
+    "id": "ORD-1002",
+    "tableNumber": 7,
+    "items": [
+      { "name": "Chicken Peri Peri Momo", "variantLabel": "Steamed (6pcs)", "quantity": 1, "price": 109 },
+      { "name": "Messy Wings", "variantLabel": "Full (8pcs)", "quantity": 1, "price": 219 }
+    ],
+    "instructions": "",
+    "status": "preparing",
+    "orderTime": "2026-07-21T10:05:00.000Z",
+    "estimatedPrepTime": 22
+  },
+  {
+    "id": "ORD-1003",
+    "tableNumber": 2,
+    "items": [
+      { "name": "Veg Korean Ramen", "variantLabel": "Regular", "quantity": 2, "price": 179 }
+    ],
+    "instructions": "One less spicy.",
+    "status": "ready",
+    "orderTime": "2026-07-21T09:52:00.000Z",
+    "estimatedPrepTime": 15
+  },
+  {
+    "id": "ORD-1004",
+    "tableNumber": 9,
+    "items": [
+      { "name": "Cheese Corn Momo", "variantLabel": "Fried (6pcs)", "quantity": 1, "price": 99 },
+      { "name": "Chicken Sizzler", "variantLabel": "Regular", "quantity": 1, "price": 249 }
+    ],
+    "instructions": "",
+    "status": "served",
+    "orderTime": "2026-07-21T09:30:00.000Z",
+    "estimatedPrepTime": 25
+  },
+  {
+    "id": "ORD-1005",
+    "tableNumber": 1,
+    "items": [
+      { "name": "Veg Momo", "variantLabel": "Steamed (6pcs)", "quantity": 3, "price": 79 }
+    ],
+    "instructions": "No garlic.",
+    "status": "completed",
+    "orderTime": "2026-07-21T09:00:00.000Z",
+    "estimatedPrepTime": 15
+  },
+  {
+    "id": "ORD-1006",
+    "tableNumber": 5,
+    "items": [
+      { "name": "Chicken Burger", "variantLabel": "Regular", "quantity": 2, "price": 159 }
+    ],
+    "instructions": "",
+    "status": "cancelled",
+    "orderTime": "2026-07-21T08:45:00.000Z",
+    "estimatedPrepTime": 12
+  },
+  {
+    "id": "ORD-1007",
+    "tableNumber": 3,
+    "items": [
+      { "name": "Saucy AF Chicken Momo", "variantLabel": "6pcs", "quantity": 1, "price": 139 },
+      { "name": "Pahadi Chicken Soup Momo", "variantLabel": "Bowl", "quantity": 1, "price": 149 }
+    ],
+    "instructions": "Pack separately if possible.",
+    "status": "pending",
+    "orderTime": "2026-07-21T10:18:00.000Z",
+    "estimatedPrepTime": 20
+  },
+  {
+    "id": "ORD-1008",
+    "tableNumber": 6,
+    "items": [
+      { "name": "Tandoori Momo Platter", "variantLabel": "Full", "quantity": 1, "price": 289 }
+    ],
+    "instructions": "",
+    "status": "preparing",
+    "orderTime": "2026-07-21T10:02:00.000Z",
+    "estimatedPrepTime": 24
+  }
+]

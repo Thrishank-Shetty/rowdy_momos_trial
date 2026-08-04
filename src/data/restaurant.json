@@ -1,0 +1,28 @@
+{
+  "name": "Rowdy Momos Cafe",
+  "nameLocal": "राऊडी मोमोज कैफे",
+  "tagline": "Loud Flavours • Steamed, Fried & Fired Up",
+  "shortDescription": "Korean-fusion momos, sizzlers, wings and corn dogs — cooked rowdy, served hot.",
+  "rating": 4.5,
+  "reviewCount": 50,
+  "priceRange": "\u20b9200\u2013400 per person",
+  "cuisine": "Fast Food • Momos • Korean Fusion",
+  "address": "Shop No. 1, Ground Floor, Surya House, High School, Vidyavihar Station Skywalk, Opp. RN Gandhi Road, Chittranjan Nagar, Vidya Vihar East, Kurla, Mumbai, Maharashtra 400077",
+  "phone": "07666696555",
+  "email": "hello@rowdymomos.in",
+  "hours": {
+    "Mon": "11:00 AM \u2013 11:00 PM",
+    "Tue": "11:00 AM \u2013 11:00 PM",
+    "Wed": "11:00 AM \u2013 11:00 PM",
+    "Thu": "11:00 AM \u2013 11:00 PM",
+    "Fri": "11:00 AM \u2013 11:30 PM",
+    "Sat": "11:00 AM \u2013 11:30 PM",
+    "Sun": "11:00 AM \u2013 11:00 PM"
+  },
+  "social": {
+    "instagram": "https://instagram.com/rowdymomos",
+    "facebook": "https://facebook.com/rowdymomos",
+    "whatsapp": "https://wa.me/917666696555"
+  },
+  "taxRate": 0.05
+}

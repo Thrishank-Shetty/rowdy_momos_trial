@@ -1,0 +1,12 @@
+[
+  { "tableNumber": 1, "seats": 2, "status": "available", "activeSession": false, "disabled": false },
+  { "tableNumber": 2, "seats": 4, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 3, "seats": 4, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 4, "seats": 2, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 5, "seats": 6, "status": "available", "activeSession": false, "disabled": false },
+  { "tableNumber": 6, "seats": 4, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 7, "seats": 2, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 8, "seats": 4, "status": "available", "activeSession": false, "disabled": true },
+  { "tableNumber": 9, "seats": 6, "status": "occupied", "activeSession": true, "disabled": false },
+  { "tableNumber": 10, "seats": 2, "status": "available", "activeSession": false, "disabled": false }
+]
